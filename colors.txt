@@ -1,0 +1,3 @@
+lighter blue #6AC3C5
+darker blue #19A2A5
+pink #EC008C
